@@ -20,7 +20,7 @@ management
 
 |-------------------------|------------------------------------------|---------------------------------------------------------|------------------------------------------------------|
 
-| **Insider Threats**     | Data Exfiltration                        | Unauthorized access to systems                          | Role-based access control (RBAC)    
+| **Insider Threats**     | Data Breach                              | Unauthorized access to systems                          | Role-based access control (RBAC)    
 
 |                         | Misconfigurations                        | Tampering with secure messaging                         | Regular audits of user activities using AWS CloudTrail
 
@@ -38,7 +38,7 @@ management
 
 |-------------------------|------------------------------------------|---------------------------------------------------------|----------------------------------------------------|
 
-| **Script Kiddies**      | Exploit Kits                             | Potential data breaches                                 | Enforce strong password policies and lockout mechanisms                        
+| **Low Hackers**         | Exploit                                  | Potential data breaches                                 | Enforce strong password policies and lockout mechanisms                        
 |                         | Brute Force Attacks                      | Service disruption                                      | Automated vulnerability scanning and patching       
 
 |                                                                                                                              | Rate limiting for login attempts         
